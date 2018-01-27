@@ -1,0 +1,30 @@
+@import './base/settings';
+@import './base/base';
+
+@import './components/container';
+@import './components/header';
+@import './components/button';
+@import './components/widget';
+@import './components/option';
+@import './components/add-option';
+@import './components/modal';
+
+
+
+
+.header_1tk9zku {
+  display: none !important;
+}
+
+.text-white {
+  color: #ffffff;
+}
+.text-right {
+  text-align: right;
+}
+.warning-msg {
+  position: relative;
+  z-index: 2002;
+  font-weight: 300;
+  margin: 0;
+}
